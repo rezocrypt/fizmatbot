@@ -1,6 +1,0 @@
-start - սկիզբ
-schedule - Ժամացուցակ
-time - դասացուցակ
-news - լուրեր
-taskbook - խնդրագիրք
-contact - կապ ֆիզմաթի հետ
