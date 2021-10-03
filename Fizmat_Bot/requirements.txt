@@ -1,3 +1,0 @@
-python-weather
-requests
-aiogram
