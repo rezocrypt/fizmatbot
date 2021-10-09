@@ -1,5 +1,0 @@
-aiogram
-requests
-asyncio
-python-weather
-pillow
